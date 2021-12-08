@@ -1,0 +1,325 @@
+{
+    "$schema": "https:\/\/raw.githubusercontent.com\/PazerOP\/tf2_bot_detector\/master\/schemas\/v3\/playerlist.schema.json",
+    "file_info": {
+        "authors": [
+            "d3fc0n6"
+        ],
+        "description": "List of Cheaters found using Rathook's votekick bypass",
+        "title": "Votekick bypass users",
+        "update_url": "https:\/\/raw.githubusercontent.com\/d3fc0n6\/Votekickbypass-users\/master\/playerlist.tf2bd.json"
+    },
+    "players": [
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "steamid": "[U:1:27176244]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "steamid": "[U:1:76358398]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "steamid": "[U:1:100974242]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "steamid": "[U:1:107533396]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "steamid": "[U:1:168547926]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "steamid": "[U:1:254958977]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "steamid": "[U:1:281884592]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "steamid": "[U:1:302006379]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "steamid": "[U:1:307532875]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "steamid": "[U:1:356845531]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "steamid": "[U:1:454245095]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "steamid": "[U:1:464248769]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "steamid": "[U:1:865410232]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "steamid": "[U:1:876233570]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "steamid": "[U:1:878278876]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "steamid": "[U:1:878532398]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "steamid": "[U:1:887033387]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "steamid": "[U:1:888092107]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "steamid": "[U:1:921378280]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "steamid": "[U:1:931713439]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "steamid": "[U:1:976255008]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "steamid": "[U:1:1002160963]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "steamid": "[U:1:1003392390]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "steamid": "[U:1:1014584469]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "steamid": "[U:1:1025736105]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "steamid": "[U:1:1026226838]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "steamid": "[U:1:1067419166]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "steamid": "[U:1:1069281997]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "steamid": "[U:1:1071169635]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "steamid": "[U:1:1071510051]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "steamid": "[U:1:1086622946]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "steamid": "[U:1:1092511852]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "steamid": "[U:1:1094762944]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "steamid": "[U:1:1096969307]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "steamid": "[U:1:1096983183]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "steamid": "[U:1:1101004880]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "steamid": "[U:1:1104143794]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "steamid": "[U:1:1104364399]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "steamid": "[U:1:1133676235]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "steamid": "[U:1:1134595704]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "steamid": "[U:1:1140996455]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "steamid": "[U:1:1141531840]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "steamid": "[U:1:1145561490]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "steamid": "[U:1:1163060212]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "steamid": "[U:1:1193021642]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "steamid": "[U:1:1205426584]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "steamid": "[U:1:1206044631]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "steamid": "[U:1:1224869566]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "steamid": "[U:1:1228822213]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "steamid": "[U:1:1250548135]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "steamid": "[U:1:1265400902]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "steamid": "[U:1:1265437300]"
+        }
+    ]
+}
